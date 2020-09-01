@@ -1,4 +1,4 @@
-<h1>Power Pool: a solution for accumulating governance power in Ethereum-based protocols</h1>
+<h1>JusDAO: a solution for token rights in Ethereum-based protocols</h1>
 <h4>Abstract</h4>
 <p>Governance tokens have a massive impact on the Ethereum ecosystem playing a vital role in the operation of protocols in the billion-dollar Defi industry. Now the minority token holders can extract minimal utility from such tokens for two reasons (1) they cannot influence the votes (2) the significant share of such tokens don't provide any income. As a result, the fundamental value of such tokens for the minority holder is close to zero, and protocols face voters' apathy problem. The Power Pool is a protocol, offering a convenient solution for pooling governance tokens. It allows the token holders to lend, pool, borrow governance tokens, get income from that, and accumulate governance power in protocols based on Ethereum. The Power Pool's mission is to expand the utility of governance tokens to the end-users and provide a new level of coordination of decision making in the Defi ecosystem.</p>
 <h4>Introduction</h4>
